@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: pink;
+    margin-top: 20vh;
+}
+#tableContainer{
+    border: 4px solid pink;
+    border-radius: 50px;
+    padding: 10px;
+    color: pink;
+    text-align: center;
+    width: 40vw;
+    margin-left: 27.5vw;
+}
+.header{
+    border: 4px solid pink;
+    border-radius: 25px;
+    padding: 15px;
+    color: pink;
+    width: 35vw;
+    text-align: center;
+    margin-left: 30vw;
+}
